@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sameer
-- 👀 I’m interested in Quantum Optics (Molecular QED, Photon Entanglement), its app;ications to Quantum Computing. I also love listening about superconductivity and other cool phyiscs in condensed matter systems.
+- 👀 I’m interested in Quantum Optics (Molecular QED, Photon Entanglement), its applications to Quantum Computing. I also love listening about superconductivity and other cool phyiscs in condensed matter systems.
 - 🌱 I'm also interested in mentoring engineering majors, particularly but necessarily, from India to switch to Physics. If you have any questions or have some interesting projects in mind, do reach out to me!
 - 📫 How to reach me - Feel free to write to me at sadambal@central.uh.edu
 
